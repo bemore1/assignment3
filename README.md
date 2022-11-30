@@ -1,2 +1,2 @@
 # assignment3
-as a example
+as an example
